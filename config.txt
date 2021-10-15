@@ -1,0 +1,33 @@
+# Tutoriumstermine (Format: tut_nr = ["Tutoren-Vorname", "Tutoren-Nachname", "Termin"])
+tut_0 = ["", "", "zu keinem Übungstermin angemeldet"]
+tut_1 = ["Dennis", "Akdasli", "Mittwoch 10-11"]
+tut_2 = ["Adnan", "Yildiz", "Mittwoch 12-13"]
+tut_3 = ["Anja", "Mau", "Donnerstag 10-11"]
+tut_4 = ["Denise", "Löfflad", "Freitag 9-10"]
+tut_5 = ["Jens", "Löwe", "Freitag 12-13"]
+
+# Vorname des Tutors, für den sortiert werden soll (Name muss in Anführungszeichen stehen)
+tutor = ""
+
+# Nummer des Übungsblatts, für das sortiert werden soll
+nr_ex = 1
+
+# Aktivierte Module für die Abgabensortierung
+sort = True                 # Abgaben in Tutorenordner sortieren
+feedback = True             # Ordner für die Feedbackdateien generieren
+table = True                # Tabelle für die Punkteeintragung generieren
+printout_sheet = False      # Aufgabenblatt ausdrucken
+printout_subms = False      # Abgaben ausdrucken
+
+# Einstellungen für die Abgabensortierung
+subms_all = False           # Abgaben von allen (vs. nur von einem) Tutoren extrahieren
+redistribute = True         # Abgaben gleichmäßig auf Tutoren verteilen
+
+# Aktivierte Module für die Korrekturensortierung
+split_corrections = False   # Konkatenierte Korrekturdatei splitten
+sort_corrections = True     # Korrekturdateien einsortieren
+generate_table = True       # Bewertungstabelle erstellen
+
+# Einstellungen für die Korrekturensortierung
+corrs_all = False           # Korrekturen von allen (vs. nur von einem) Tutoren extrahieren
+empty_backpages = True      # nur bei konkateniertem Korrektur-PDF: leere letzte Rückseiten sind mit eingescannt
