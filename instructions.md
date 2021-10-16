@@ -1,7 +1,5 @@
 # Verwendung
 
-Instructions and program output are currently German. If you are interested in an English translation, please contact me.
-
 
 
 ## Initiales Setup
