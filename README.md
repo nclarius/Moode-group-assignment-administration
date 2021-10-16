@@ -19,7 +19,7 @@ University of Tübingen, Department of Computer Science, 2020
 
 # Usage
 
-Instructions and program output are currently only in German. If you are interested in an English translation, please contact me.
+Instructions and program output are currently German. If you are interested in an English translation, please contact me.
 
 
 
