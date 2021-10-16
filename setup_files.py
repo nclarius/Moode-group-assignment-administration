@@ -2,9 +2,9 @@
 # -*- coding: utf-8 -*-
 
 """
-Sammlung von Skripten zur Verwaltung von gruppenweisen Übungsblattabgaben - Erstmaliges Setup
-Natalie Clarius <natalie.clarius@student.uni-tuebingen.de>
-Universität Tübingen, Fachbereich Informatik, Einführung in die Logik, SS20
+Collection of scripts for administration of group-wise assignment submissions via the Moodle system - Initial Setup
+Natalie Clarius <clarius@informatik.uni-tuebingen.de>
+University of Tübingen, Department of Computer Science, 2020
 """
 
 import os, json, csv

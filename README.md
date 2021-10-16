@@ -1,13 +1,13 @@
-This package is a collection of instructions and scripts to
+This repository is a collection of instructions and scripts to
 
-- use the Moodle e-learning platform to create groups for tutorials and teams and let participants submit assignments according to these groups (`setup_files.py`),
+- use the Moodle e-learning platform to create user groups for tutorials and teams, and let participants submit assignments using these groups (`setup_files.py`),
 
 - automatically sort the submissions by tutor and teams (`sort_submissions.py`),
 - easily enter points and corrections into the grading system (`sort_corrections.py`).
 
-Natalie Clarius <natalie.clarius@student.uni-tuebingen.de>
+Natalie Clarius <clarius@informatik.uni-tuebingen.de>
 
-University of Tübingen, Department of Computer Science, 2021
+University of Tübingen, Department of Computer Science, 2020
 
 
 
@@ -15,13 +15,17 @@ University of Tübingen, Department of Computer Science, 2021
 
 [Python](https://www.python.org/downloads/) (Version >= 3.9).
 
-How to execute `.py` scripts is easily googleable for your respective OS. Please ensure to use Python 3 rather than Python 2.
+
+
+# Usage
+
+Instructions and program output are currently only in German. If you are interested in an English translation, please contact me.
 
 
 
-# Initiales Setup
+## Initiales Setup
 
-- Diese Schritte sind einmalig zu Beginn der Veranstaltung auszuführen.
+- Diese Schritte sind einmalig zu Beginn der Veranstaltung durchzuführen.
 
 - Gruppen aufsetzen:
   - Moodle > ‘Teilnehmer/innen’ > Einstellungsrad > ‘Gruppen’
@@ -73,9 +77,9 @@ How to execute `.py` scripts is easily googleable for your respective OS. Please
 
 
 
-# Wöchentliches Moodle-Aufgaben-Setup
+## Wöchentliches Moodle-Aufgaben-Setup
 
-- Diese Schritte sind für jedes Aufgabenblatt auszuführen.
+- Diese Schritte sind für jedes Aufgabenblatt durchzuführen.
 
 - Aufgabe anlegen:
   - Moodle > ‘Aktivität anlegen’ > ‘Aufgabe’
@@ -94,9 +98,9 @@ How to execute `.py` scripts is easily googleable for your respective OS. Please
 
 
 
-# Wöchentliche Abgaben-Sortierung
+## Wöchentliche Abgaben-Sortierung
 
-- Diese Schritte sind für jedes Aufgabenblatt nach der Abgabe auszuführen, wenn die Abgaben nach Tutoren und Gruppen sortiert werden sollen.
+- Diese Schritte sind für jedes Aufgabenblatt nach der Abgabe durchzuführen, wenn die Abgaben nach Tutoren und Gruppen sortiert werden sollen.
 
 - 'sort_submissions.py' kann:
 
@@ -138,9 +142,9 @@ How to execute `.py` scripts is easily googleable for your respective OS. Please
 
 
 
-# Wöchentliche Korrektur-Sortierung
+## Wöchentliche Korrektur-Sortierung
 
-- Diese Schritte sind für jedes Aufgabenblatt nach der Korrektur auszuführen, wenn die Punkte und Korrekturen per Datei auf Moodle hochgeladen werden sollen.
+- Diese Schritte sind für jedes Aufgabenblatt nach der Korrektur durchzuführen, wenn die Punkte und Korrekturen per Datei auf Moodle hochgeladen werden sollen.
 
 - ‘sort_corrections.py’ kann:
   - Korrekturenscans aus einer konkatenierten PDF-Datei in die Korrekturen der einzelnen Teams aufsplitten;
@@ -193,3 +197,4 @@ How to execute `.py` scripts is easily googleable for your respective OS. Please
   - Moodle > Aufgabenblatt > ‘Alle Abgaben anzeigen’ > ‘Bewertungsvorgang’
   - Punkte hochladen: \> 'Bewertungstabelle hochladen’ > ‘Bewertungen_Tutorname.csv' als Bewertungstabelle hochladen, Checkbox 'Update von Datensätzen zulassen...' auswählen, restliche Einstellungen lassen > bestätigen
   - Korrekturen hochladen: > ‘Mehrere Feedback-Dateien in einer ZIP-Datei hochladen’ > ‘Feedbacks.zip’ hochladen, bestätigen
+
