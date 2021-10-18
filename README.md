@@ -1,11 +1,10 @@
 This repository is a collection of instructions and scripts to
 
-- use the Moodle e-learning platform to create user groups for tutorials and teams, and let participants submit assignments using these groups (`setup_files.py`),
-
+- use the Moodle learning management platform to create user groups for tutorial classes and homework teams, and let participants submit assignments using these groups (`setup_files.py`),
 - automatically sort the submissions by tutor and teams (`sort_submissions.py`),
 - easily enter points and corrections into the grading system (`sort_corrections.py`).
 
-Natalie Clarius <clarius@informatik.uni-tuebingen.de>
+Natalie Clarius \<<clarius@informatik.uni-tuebingen.de>\>
 
 University of Tübingen, Department of Computer Science, 2020
 
