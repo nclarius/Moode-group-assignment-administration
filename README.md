@@ -10,7 +10,7 @@ University of Tübingen, Department of Computer Science, 2020
 
 
 
-# Prerequisites
+# Dependencies
 
 [Python](https://www.python.org/downloads/) (version >= 3.9)
 
