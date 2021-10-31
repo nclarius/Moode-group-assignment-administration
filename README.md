@@ -1,4 +1,4 @@
-This repository is a collection of instructions and scripts to
+This repository is a set of instructions and scripts to
 
 - use the Moodle learning management platform to create user groups for tutorial classes and homework teams, and let participants submit assignments using these groups (`setup_files.py`),
 - automatically sort the submissions by tutor and teams (`sort_submissions.py`),
