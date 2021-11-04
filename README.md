@@ -18,7 +18,7 @@ University of Tübingen, Department of Computer Science, 2020
 
 # Usage
 
-See [instructions](https://github.com/nclarius/pyMoodle/blob/main/README.md).
+See [instructions](https://github.com/nclarius/pyMoodle/blob/main/instructions.md).
 
 Instructions and program output are currently in German. If you are interested in an English translation, please contact me.
 
