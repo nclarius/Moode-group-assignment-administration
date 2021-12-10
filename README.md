@@ -12,7 +12,9 @@ University of Tübingen, Department of Computer Science, 2020
 
 # Dependencies
 
-[Python](https://www.python.org/downloads/) (version >= 3.9) and Python packages: PyPDF2
+- [Python](https://www.python.org/downloads/) (version >= 3.9)
+- Python packages: 
+  - `PyPDF2`
 
 
 
