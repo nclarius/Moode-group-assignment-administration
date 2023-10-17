@@ -20,7 +20,7 @@
     - ‘Grupenmitteilungen’: ‘Ja’
     - restliche Einstellungen lassen
   - Gruppierungen (Überkategorien von Gruppen) anlegen:
-    - > Dropdown oben > ‘Gruppierungen’ > zweimal ‘Gruppierung anlegen’ > eine Gruppierung namens “Übungstermine”, eine Gruppierung namens “Übungsteams”
+    - Dropdown oben > ‘Gruppierungen’ > zweimal ‘Gruppierung anlegen’ > eine Gruppierung namens “Übungstermine”, eine Gruppierung namens “Übungsteams”
     - Gruppierungsübersicht > Mitglieder-Icon in der ‘Bearbeiten’-Spalte für die jeweilige Gruppierung > zu Gruppierung “Übungstermine” die Gruppen “Übung x: …” hinzufügen, zu Gruppierung “Übungsteams” die Gruppen “Team xxx” hinzufügen  
 - Gruppenwahl anlegen:
   - Übungsterminwahl anlegen: Moodle > ‘Aktivität anlegen’ > ‘Gruppenwahl’
