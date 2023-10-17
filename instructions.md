@@ -7,19 +7,21 @@
 - Diese Schritte sind einmalig zu Beginn der Veranstaltung durchzuführen.
 
 - Gruppen aufsetzen:
-  - Moodle > ‘Teilnehmer/innen’ > Einstellungsrad > ‘Gruppen’
-  - Gruppen für Übungstermine anlegen: für jede Übungsgruppe: > ‘Gruppe anlegen’
+  - Moodle > ‘Teilnehmer/innen’  
+  - Gruppen für Übungstermine anlegen: für jede Übungsgruppe:
+    - > Dropdown oben > ‘Gruppen’ > ‘Gruppe anlegen’
     - ‘Gruppenname’: im Format “Übung 1: Montag 12-14 (Max Mustertutor)”
     - restliche Einstellungen lassen
-  - Gruppen für Übungsteams anlegen: > ‘Gruppen automatisch anlegen’
-    - ‘Namensschema’: Team #
+  - Gruppen für Übungsteams anlegen:
+    - > Dropdown oben > ‘Gruppen’ > ‘Gruppen automatisch anlegen’
+    - ‘Namensschema’: “Team #”
     - ‘Kriterien für automatisches Erstellen’: ‘Anzahl von Gruppen’
     - ‘Anzahl von Gruppen oder Mitgliedern pro Gruppe’: ausreichende Anzahl an leeren Gruppen je nach Teilnehmerzahl und gewünschter Teamgröße plus etwas Puffer, z.B. bei 300 Teilnehmern und 3er-Teams etwa 110 Gruppen
     - ‘Grupenmitteilungen’: ‘Ja’
     - restliche Einstellungen lassen
   - Gruppierungen (Überkategorien von Gruppen) anlegen:
-    - Reiter ‘Gruppierungen’ > zweimal ‘Gruppierung anlegen’ > eine Gruppierung namens “Übungstermine”, eine Gruppierung namens “Übungsteams”
-    - Gruppierungsübersicht > Mitglieder-Icon in der ‘Bearbeiten’-Spalte für die jeweilige Gruppierung > zu Gruppierung “Übungstermine” die Gruppen “Übung x: …” hinzufügen, zu Gruppierung “Übungsteams” die Gruppen “Team xxx” hinzufügen
+    - > Dropdown oben > ‘Gruppierungen’ > zweimal ‘Gruppierung anlegen’ > eine Gruppierung namens “Übungstermine”, eine Gruppierung namens “Übungsteams”
+    - Gruppierungsübersicht > Mitglieder-Icon in der ‘Bearbeiten’-Spalte für die jeweilige Gruppierung > zu Gruppierung “Übungstermine” die Gruppen “Übung x: …” hinzufügen, zu Gruppierung “Übungsteams” die Gruppen “Team xxx” hinzufügen  
 - Gruppenwahl anlegen:
   - Übungsterminwahl anlegen: Moodle > ‘Aktivität anlegen’ > ‘Gruppenwahl’
     - ‘Name der Gruppenwahl’: “Übungsterminwahl”
