@@ -9,11 +9,11 @@
 - Gruppen aufsetzen:
   - Moodle > ‘Teilnehmer/innen’  
   - Gruppen für Übungstermine anlegen: für jede Übungsgruppe:
-    - > Dropdown oben > ‘Gruppen’ > ‘Gruppe anlegen’
+    - Dropdown oben > ‘Gruppen’ > ‘Gruppe anlegen’
     - ‘Gruppenname’: im Format “Übung 1: Montag 12-14 (Max Mustertutor)”
     - restliche Einstellungen lassen
   - Gruppen für Übungsteams anlegen:
-    - > Dropdown oben > ‘Gruppen’ > ‘Gruppen automatisch anlegen’
+    - Dropdown oben > ‘Gruppen’ > ‘Gruppen automatisch anlegen’
     - ‘Namensschema’: “Team #”
     - ‘Kriterien für automatisches Erstellen’: ‘Anzahl von Gruppen’
     - ‘Anzahl von Gruppen oder Mitgliedern pro Gruppe’: ausreichende Anzahl an leeren Gruppen je nach Teilnehmerzahl und gewünschter Teamgröße plus etwas Puffer, z.B. bei 300 Teilnehmern und 3er-Teams etwa 110 Gruppen
